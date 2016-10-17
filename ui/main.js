@@ -1,2 +1,2 @@
 console.log('Loaded!');
-confirm("are u ready");
+prompt("are u ready");
