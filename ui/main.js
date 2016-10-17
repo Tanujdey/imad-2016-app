@@ -1,2 +1,2 @@
 console.log('Loaded!');
-alert("welcome");
+confirm("are u ready");
